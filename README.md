@@ -1,5 +1,3 @@
-# v
-Real time communication  system
 {
   "nbformat": 4,
   "nbformat_minor": 0,
