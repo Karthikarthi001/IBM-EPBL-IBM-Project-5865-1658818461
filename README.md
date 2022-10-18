@@ -1,7 +1,7 @@
 REAL TIME COMMUNICATION SYSTEM POWERED BY AI SPESIALLY ABLED 
 
 Team Lead           	      
-                                               SATHEESHKUMAR.M
+                                             SATHEESHKUMAR.M
 
 Team member 1   	
                                              ANBARASAN.K
